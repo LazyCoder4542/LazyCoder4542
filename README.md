@@ -31,4 +31,4 @@ I am an MERN full-stack developer
 ![LazyCoder](https://github-readme-stats-moi.vercel.app/api?username=LazyCoder4542&show_icons=true&theme=jolly&hide_border=true&layout=compact)
 ![](https://github-readme-stats-moi.vercel.app/api/top-langs/?username=LazyCoder4542&langs_count=20&theme=jolly&hide_border=true&layout=compact)
 ![LazyCoder's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LazyCoder4542&layout=compact&theme=jolly&hide_border=true)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LazyCoder4542&show_icons=true&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=LazyCoder4542&show_icons=true&theme=jolly&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
