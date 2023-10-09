@@ -8,6 +8,7 @@ I am an MERN full-stack developer
 - 🏫 <b> Education: </b> Computer Science @UNILAG Lagos, Nigeria
 
 - 💼 <b> Job search status: </b> Actively looking
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LazyCoder4542&label=Profile%20views&color=0e75b6" alt="adeola" /> </p>
 
 ## ⚒ My Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
