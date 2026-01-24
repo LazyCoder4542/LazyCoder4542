@@ -15,7 +15,10 @@ I am an MERN full-stack developer
 ![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -23,7 +26,7 @@ I am an MERN full-stack developer
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [My Portfolio](https://adeolafadare.netlify.app)
 * ✉️  You can contact me at [adeolafadare8@gmail.com](mailto:adeolafadare8@gmail.com)
-* 🧠  I'm learning Gsap, GraphQL and Flutter
+* 🧠  I'm learning Gsap, GraphQL
 * 🤝  I'm open to collaborating on Interesting Projects.
 * ⚡  I love working with people to build amazing stuffs
 * 
